@@ -59,17 +59,20 @@ Turnigy 9XR Pro Mode 2
 
 FrSky DJT Tx module
 
-
-
-£19.60
+[GiantShark](http://www.giantshark.co.uk/product/170559/frsky-24ghz-djt-two-way-communication-system-module-only) £19.60
+[T9](http://www.t9hobbysport.com/frsky-djt-2.4ghz-jr-telemetry-transmitter-module) £19.79
 
 FrSky Cable
 
-£2.34
+Frsky Telemetry & Head Track Module Extent Cable for 9XR Pro
+
+[HobbyKing](http://www.hobbyking.com/hobbyking/store/__58503__Frsky_Telemetry_Head_Track_Module_Extent_Cable_for_9XR_Pro.html) £2.98
 
 ## Battery charger
 
 Turnigy Accucel 6 ???
+
+[HobbyKing](http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=7028) £15.17
 
 ## Total
 
