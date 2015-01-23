@@ -69,6 +69,7 @@ FrSky Cable
 
 ## Battery charger
 
+Turnigy Accucel 6 ???
 
 ## Total
 
