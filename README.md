@@ -1,15 +1,15 @@
 # Quad
 
 
-$49.18 Frame - Alien Spider AQ50D PRO 250mm Mini Quadcopter Carbon Fiber - http://www.goodluckbuy.com/alien-spider ... frame.html
-£22.52 Motors - ZMR 1804 2400kv - http://www.banggood.com/-X-Power-1804-2 ... 23424.html
-$35 Flight Controller - Flip 32 + - http://witespyquad.gostorego.com/flight ... 2-249.html
+* $49.18 Frame - [Alien Spider AQ50D PRO 250mm Mini Quadcopter Carbon Fiber](http://www.goodluckbuy.com/alien-spider-aq50d-pro-250mm-mini-quadcopter-carbon-fiber-micro-multicopter-frame.html)
+* £22.52 Motors - [ZMR 1804 2400kv](http://www.banggood.com/-X-Power-1804-2400KV-Micro-Integration-Outrunner-Brushless-Motor-p-923424.html)
+* $35 Flight Controller - [Flip 32](http://witespyquad.gostorego.com/flight-controllers/the-flip32-249.html)
    — What sort of pins????
-£1.62 Props - Gemfan 5030 - http://www.hobbyking.co.uk/hobbyking/st ... hite_.html
-$32 ESC - B-12A Ice Blue series SimonK - http://witespyquad.gostorego.com/speed- ... imonk.html
-£19.25 RX - FrSky D4R-II - http://www.unmannedtechshop.co.uk/frsky ... eiver.html
+* £1.62 Props - [Gemfan 5030](http://www.hobbyking.co.uk/hobbyking/store/__58254__Gemfan_5030_Multirotor_Propellers_One_Pair_CW_CCW_White_.html)
+* $32 ESC - [B-12A Ice Blue series SimonK](http://witespyquad.gostorego.com/speed-controllers/readytofly-12-amp-rapidesc-simonk.html)
+* £19.25 RX - [FrSky D4R-II](http://www.unmannedtechshop.co.uk/frsky-d4r-ii-4-8ch-accst-receiver.html)
  - only 4 channel PWM, 8 channel CPPM. Don’t I need more?
-£8.99 Battery - Dynamic 1800Mah 3S LiPo - http://www.hobbystores.co.uk/default.as ... =DYN3S1800
+* £8.99 Battery - [Dynamic 1800Mah 3S LiPo](http://www.hobbystores.co.uk/default.asp?WPG=HOB_HomePage1&itemid=DYN3S1800)
 
 $116.18 + £52.38 = £70.34 + £52.38 = £122.72
 
