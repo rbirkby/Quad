@@ -75,8 +75,9 @@ Turnigy Accucel 6 ???
 
 $116.18 + £52.38 = £70.34 + £52.38 = £122.72
 
+## New soldering iron
 
-* Battery Charger
+
 * 3.5mm bullet connectors
 * Heat shrink tubing (red and black)
 * EC5 or XT60 or something similar battery connectors (ideally xt60)
