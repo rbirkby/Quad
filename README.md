@@ -1,5 +1,36 @@
 # Quad
 
+## Frame
+
+Alien Spider AQ50D PRO 250mm Mini Quadcopter Carbon Fiber
+
+[GoodLuckBuy](http://www.goodluckbuy.com/alien-spider-aq50d-pro-250mm-mini-quadcopter-carbon-fiber-micro-multicopter-frame.html) $49.18
+
+## Motors
+
+ZMR 1804 2400kv
+
+[BangGood](http://www.banggood.com/-X-Power-1804-2400KV-Micro-Integration-Outrunner-Brushless-Motor-p-923424.html) £22.52
+
+
+## Flight Controller
+
+## Props
+
+## ESC
+
+## Rx
+
+## Battery
+
+## Controller
+
+## Tx module
+
+FrSky Cable
+
+## Battery charger
+
 
 * $49.18 Frame - [Alien Spider AQ50D PRO 250mm Mini Quadcopter Carbon Fiber](http://www.goodluckbuy.com/alien-spider-aq50d-pro-250mm-mini-quadcopter-carbon-fiber-micro-multicopter-frame.html)
 * £22.52 Motors - [ZMR 1804 2400kv](http://www.banggood.com/-X-Power-1804-2400KV-Micro-Integration-Outrunner-Brushless-Motor-p-923424.html)
