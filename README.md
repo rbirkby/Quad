@@ -20,6 +20,7 @@ Flip 32.
 What sort of pins??
 
 [gostorego](http://witespyquad.gostorego.com/flight-controllers/the-flip32-249.html) $35
+[BangGood](http://www.banggood.com/Naze32-Flight-Controller-With-32-bit-STM32-for-Multicopter-10Dof-p-953849.html) £18.49
 
 ## Props
 
@@ -40,6 +41,7 @@ FrSky D4R-II
 Only 4 channel PWM, 8 channel CPPM. Don’t I need more?
 
 [unmannedtechshop](http://www.unmannedtechshop.co.uk/frsky-d4r-ii-4-8ch-accst-receiver.html) £19.25
+[BangGood](http://www.banggood.com/FrSky-D4RII-24G-4CH-ACCST-Telemetry-Receiver-p-929069.html) £20.54
 
 ## Battery
 
@@ -51,11 +53,13 @@ Dynamic 1800Mah 3S LiPo
 
 Turnigy 9XR Pro Mode 2
 
-£61.99
+[HobbyKing](http://www.hobbyking.com/hobbyking/store/__51442__Turnigy_9XR_PRO_Radio_Transmitter_Mode_2_without_module_.html) £65.99
 
 ## Tx module
 
 FrSky DJT Tx module
+
+
 
 £19.60
 
