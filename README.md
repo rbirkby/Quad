@@ -13,16 +13,16 @@
 
 $116.18 + £52.38 = £70.34 + £52.38 = £122.72
 
-£61.99 Turnigy 9XR Pro Mode 2
-£19.60 FrSky DJT Tx module
+* £61.99 Turnigy 9XR Pro Mode 2
+* £19.60 FrSky DJT Tx module
 
-£2.34 FrSky cable
-£8.03 3s LiPo battery for 9XR pro
-Battery Charger
-3.5mm bullet connectors
-Heat shrink tubing (red and black)
-EC5 or XT60 or something similar battery connectors (ideally xt60)
-Plastic spacers
+* £2.34 FrSky cable
+* £8.03 3s LiPo battery for 9XR pro
+* Battery Charger
+* 3.5mm bullet connectors
+* Heat shrink tubing (red and black)
+* EC5 or XT60 or something similar battery connectors (ideally xt60)
+* Plastic spacers
 
 * buzzer
 * 28 WS2812 LEDs.
@@ -35,6 +35,4 @@ Plastic spacers
 * RSSI lead from RX to RC2 and using RSSI_ADC feature
 * Telemetry lead from RX and using UART2 - still need to fit inverter or write some code to get telemetry working because softserial pins used by LED strip pins.
 
-Good info: http://diydrones.com/profiles/blogs/330-gram-mini-quad-upgrades
-http://www.tomshardware.com/reviews/multi-rotor-quadcopter-fpv,3828.html
-Wiring: http://oddcopter.com/2012/04/13/quadcopter-wiring/
+Good info [here](http://diydrones.com/profiles/blogs/330-gram-mini-quad-upgrades) and [here](http://www.tomshardware.com/reviews/multi-rotor-quadcopter-fpv,3828.html) and on [wiring](http://oddcopter.com/2012/04/13/quadcopter-wiring/)
