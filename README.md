@@ -97,4 +97,4 @@ $116.18 + £52.38 = £70.34 + £52.38 = £122.72
 * RSSI lead from RX to RC2 and using RSSI_ADC feature
 * Telemetry lead from RX and using UART2 - still need to fit inverter or write some code to get telemetry working because softserial pins used by LED strip pins.
 
-Good info [here](http://diydrones.com/profiles/blogs/330-gram-mini-quad-upgrades) and [here](http://www.tomshardware.com/reviews/multi-rotor-quadcopter-fpv,3828.html) and on [wiring](http://oddcopter.com/2012/04/13/quadcopter-wiring/)
+Good info [here](http://diydrones.com/profiles/blogs/330-gram-mini-quad-upgrades) and [here](http://www.tomshardware.com/reviews/multi-rotor-quadcopter-fpv,3828.html) and on [wiring](http://oddcopter.com/2012/04/13/quadcopter-wiring/). [Safety](http://imgur.com/a/kPQ5o)
