@@ -80,6 +80,11 @@ $116.18 + £52.38 = £70.34 + £52.38 = £122.72
 
 ## New soldering iron
 
+# Prop balancer
+
+# Controller battery
+
+
 
 * 3.5mm bullet connectors
 * Heat shrink tubing (red and black)
@@ -99,3 +104,4 @@ $116.18 + £52.38 = £70.34 + £52.38 = £122.72
 
 Good info [here](http://diydrones.com/profiles/blogs/330-gram-mini-quad-upgrades) and [here](http://www.tomshardware.com/reviews/multi-rotor-quadcopter-fpv,3828.html) and on [wiring](http://oddcopter.com/2012/04/13/quadcopter-wiring/). [Safety](http://imgur.com/a/kPQ5o)
 [Beginners Guide](http://polakiumengineering.org/downloads/The_Beginner's_Guide_to_Multicopters_06292012.pdf)
+and [here](http://www.hobbyking.com/hobbyking/forum/forum_posts.asp?TID=38561)
