@@ -82,9 +82,11 @@ $116.18 + £52.38 = £70.34 + £52.38 = £122.72
 
 # Prop balancer
 
+DuBro or TopFlite
+
 # Controller battery
 
-
+Turnigy safety
 
 * 3.5mm bullet connectors
 * Heat shrink tubing (red and black)
