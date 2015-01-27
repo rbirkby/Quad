@@ -88,6 +88,12 @@ DuBro or TopFlite
 
 Turnigy safety
 
+# Inverter
+
+http://aeroquad.com/showthread.php?9064-SBUS-to-v2-1-using-a-Transistor-NOT-Gate
+or schmitt trigger inverter 74LVC1G14 or 
+https://github.com/openLRSng/openLRSng/wiki/Telemetry-guide
+
 * 3.5mm bullet connectors
 * Heat shrink tubing (red and black)
 * EC5 or XT60 or something similar battery connectors (ideally xt60)
