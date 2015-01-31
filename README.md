@@ -114,6 +114,6 @@ https://github.com/openLRSng/openLRSng/wiki/Telemetry-guide
 * RSSI lead from RX to RC2 and using RSSI_ADC feature
 * Telemetry lead from RX and using UART2 - still need to fit inverter or write some code to get telemetry working because softserial pins used by LED strip pins.
 
-Good info [here](http://diydrones.com/profiles/blogs/330-gram-mini-quad-upgrades) and [here](http://www.tomshardware.com/reviews/multi-rotor-quadcopter-fpv,3828.html) and on [wiring](http://oddcopter.com/2012/04/13/quadcopter-wiring/). [Safety](http://imgur.com/a/kPQ5o)
+Good info [here](http://diydrones.com/profiles/blogs/330-gram-mini-quad-upgrades) and [here](http://www.tomshardware.com/reviews/multi-rotor-quadcopter-fpv,3828.html) and on [wiring](http://oddcopter.com/2012/04/13/quadcopter-wiring/) and [also](http://www.netraam.eu/nazewiki/pmwiki.php?n=GetStarted.WiringTheNaze32). [Safety](http://imgur.com/a/kPQ5o)
 [Beginners Guide](http://polakiumengineering.org/downloads/The_Beginner's_Guide_to_Multicopters_06292012.pdf)
 and [here](http://www.hobbyking.com/hobbyking/forum/forum_posts.asp?TID=38561)
