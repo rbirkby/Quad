@@ -43,6 +43,8 @@ Only 4 channel PWM, 8 channel CPPM. Don’t I need more?
 [unmannedtechshop](http://www.unmannedtechshop.co.uk/frsky-d4r-ii-4-8ch-accst-receiver.html) £19.25
 [BangGood](http://www.banggood.com/FrSky-D4RII-24G-4CH-ACCST-Telemetry-Receiver-p-929069.html) £20.54
 
+[Lots of info](http://www.eflightwiki.com/eflightwiki/index.php?title=FrSky_Telemetry#D4R-II)
+
 ## Battery
 
 Dynamic 1800Mah 3S LiPo
