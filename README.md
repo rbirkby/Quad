@@ -55,7 +55,7 @@ Dynamic 1800Mah 3S LiPo
 
 ## Controller
 
-Turnigy 9XR Pro Mode 2
+[Turnigy 9XR](http://www.turnigy9xr.com/) Pro Mode 2
 
 [HobbyKing](http://www.hobbyking.com/hobbyking/store/__51442__Turnigy_9XR_PRO_Radio_Transmitter_Mode_2_without_module_.html) £65.99
 
