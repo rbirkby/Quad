@@ -45,6 +45,8 @@ Only 4 channel PWM, 8 channel CPPM. Don’t I need more?
 
 [Lots of info](http://www.eflightwiki.com/eflightwiki/index.php?title=FrSky_Telemetry#D4R-II)
 
+How to [connect to Naze/Flip32](http://www.netraam.eu/nazewiki/pmwiki.php?n=Howto.FrskyTelemetry)
+
 ## Battery
 
 Dynamic 1800Mah 3S LiPo
